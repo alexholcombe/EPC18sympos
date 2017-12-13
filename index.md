@@ -1,4 +1,6 @@
-# A symposium at EPC 2018, University of Tasmania Sandy Bay campus
+Learning emerging best practices
+
+# University of Tasmania Sandy Bay campus
 
 Organiser: Professor Alex Holcombe, School of Psychology, The University of Sydney
 
