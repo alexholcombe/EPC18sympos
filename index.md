@@ -17,6 +17,6 @@ New methodological practices can help ensure that study results are reproducible
 
 **Preregistration is cramping my style... is it worth it?**  - Kim Ransley (PhD student, the University of Sydney)
 
-*Reproducible data analysis with R and RMarkdown* - Charles Ludowici (PhD student, the University of Sydney)
+**Reproducible data analysis with R and RMarkdown** - Charles Ludowici (PhD student, the University of Sydney)
 
-*Doing Bayesian statistics with JASP* - Dr. Chris Donkin (UNSW Australia)
+**Doing Bayesian statistics with JASP** - Dr. Chris Donkin (UNSW Australia)
