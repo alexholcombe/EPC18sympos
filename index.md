@@ -25,4 +25,4 @@ New methodological practices can help ensure that study results are reproducible
 
 You are encouraged to bring your laptop.
 
-Unfortunately EPC will not be providing wifi. However if you happen to be associated with an Australian university (or many UK universities), you should be able to use eduroam (before leaving your home university, make sure you have eduroam working there). If you cannot get eduroam, if you contact the conference organisers well in advance (e.g. Helen Derbyshire <helen.derbyshire@utas.edu.au>) with your name, email, and mobile number, they will attempt to get you a login for the university wifi.
+If you happen to be associated with an Australian university (or many UK universities), you should have wi-fi access through eduroam (before leaving your home university, make sure you have eduroam working there). If you cannot get eduroam, if you contact the conference organisers well in advance (e.g. Helen Derbyshire <helen.derbyshire@utas.edu.au>) with your name, email, and mobile number, they will attempt to get you a login for the university wifi.
