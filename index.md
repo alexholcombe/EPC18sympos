@@ -10,7 +10,7 @@
 
 New methodological practices can help ensure that study results are reproducible and robust. Some of these practices are being adopted rapidly, in part because journals and research funders are incentivising them. An additional reason is that some of the practices can actually make our research lives easier! This symposium will be a how-to session covering study preregistration ("Preregistration is cramping my style... is it worth it?", presented by Kim Ransley), reproducible data analysis with R and RMarkdown (Charles Ludowici), and doing Bayesian statistics with JASP ([Chris Donkin](http://www.psy.unsw.edu.au/contacts-people/academic-staff/dr-chris-donkin)).  Attendees are encouraged to bring their laptops and will receive details of what software to install for any interactive  bits of the symposum. Specifics will be posted at https://alexholcombe.github.io/EPC18sympos/index.html
 
-1.00ish (start time depends on how long it takes people to find the place). **Improving how science is done and the changing academic landscape** - Alex Holcombe (the University of Sydney) will speak for 30 min or less, followed by discussion.
+1.00ish (start time depends on how long it takes people to find the place). **Improving how science is done and the changing academic landscape** - Alex Holcombe (the University of Sydney) will speak for 30 min or less, followed by discussion and some help with installing software (see below - RStudio with rmarkdown and JASP)
 
 2.00 **Preregistration is cramping my style... is it worth it?**  - Kim Ransley (PhD student, the University of Sydney)
 
