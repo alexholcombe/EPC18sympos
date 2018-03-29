@@ -26,5 +26,9 @@ New methodological practices can help ensure that study results are reproducible
 You are encouraged to bring your laptop, and if you do please install:
 
 * [JASP](https://jasp-stats.org/)
+* Follow these steps to install rMarkdown
+    * [Install R](https://cran.r-project.org/)
+    * [Install RStudio](https://www.rstudio.com/products/rstudio/download/)
+    * Open RStudio and type `install.packages('rmarkdown')`
 
 If you happen to be associated with an Australian university (or many UK universities), you should have wi-fi access through eduroam (before leaving your home university, make sure you have eduroam working there). If you cannot get eduroam, if you contact the conference organisers well in advance (e.g. Helen Derbyshire <helen.derbyshire@utas.edu.au>) with your name, email, and mobile number, they will attempt to get you a login for the university wifi.
